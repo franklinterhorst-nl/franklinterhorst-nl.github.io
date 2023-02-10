@@ -1,0 +1,4 @@
+.github/** -linguist-vendored
+.github/** linguist-detectable
+docs/** -linguist-documentation
+docs/** linguist-detectable
